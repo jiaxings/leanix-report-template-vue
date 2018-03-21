@@ -1,0 +1,21 @@
+{
+  "name": "leanix-report-template-vue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Paulo dos Santos",
+    "email": "paulo.santos@leanix.net"
+  },
+  "description": "A full-featured LeanIX custom report setup based on Vue.js with hot reload, linting, testing & css extraction.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leanix-public/leanix-report-template-vue.git"
+  },
+  "scripts": {
+    "docs": "cd docs && gitbook serve",
+    "docs:deploy": "bash ./deploy-docs.sh"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.9.3"
+  }
+}
