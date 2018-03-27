@@ -1,4 +1,4 @@
-/* eslint-disable */
+/* global lx */
 import '@leanix/reporting'
 
 const LeanixVuePlugin = {
