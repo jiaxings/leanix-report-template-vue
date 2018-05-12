@@ -13,6 +13,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It
 
 ``` bash
 $ npm install -g vue-cli
+$ npm install -g @vue/cli-init
 $ vue init leanix-public/leanix-report-template-vue my-project
 $ cd my-project
 $ npm install
